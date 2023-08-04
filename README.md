@@ -99,8 +99,8 @@ Le C est au coeur de la piscine. Tout le code que vous écrirez devra être
 La correction automatique est très stricte, votre code doit être parfaitement
 à la norme, et fonctionner dans TOUS les cas.
 
-Les fonctions qui gèrent les entiers doivent fonctionner avec INT_MIN et INT_MAX,
-les chaines de caractères doivent fonctionner avec des chaines vides, etc.
+Les fonctions qui gèrent les entiers doivent fonctionner avec INT_MIN et INT_MAX;
+les chaines de caractères pourront être vides, les tableaux aussi, etc.
 
 Bien que les tests de la moulinette ne soient pas accessibles, vous pouvez
 tester votre code vous même avec des tests génériques, vous pouvez aussi trouver
