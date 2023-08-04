@@ -1,0 +1,47 @@
+0: zero
+1: un
+2: deux
+3: trois
+4: quatre
+5: cinq
+6: six
+7: sept
+8: huit
+9: neuf
+10: dix
+11: onze
+12: douze
+13: treize
+14: quatorze
+15: quinze
+16: seize
+17: dix-sept
+18: dix-huit
+19: dix-neuf
+20: vingt
+21: vingt et un
+30: trente
+31: trente et un
+40: quarante
+41: quarante et un
+50: cinquante
+51: cinquante et un
+60: soixante
+61: soixante et un
+70: septante
+71: septante et un
+80: huitante
+81: huitante et un
+90: nonante
+91: nonante et un
+100: cent
+1000: mille
+1000000: million
+1000000000: milliard
+1000000000000: billion
+1000000000000000: billiard
+1000000000000000000: trillion
+1000000000000000000000: trilliard
+1000000000000000000000000: quadrillion
+1000000000000000000000000000: quadrilliard
+1000000000000000000000000000000: quintillion
