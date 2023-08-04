@@ -59,6 +59,10 @@ quelques tests. Une moyenne sera calculée entre les notes de vos correcteurs
 et la moulinette. Si vous avez une moyenne supérieure à 50, vous passez au
 day suivant, sinon vous devez refaire le day (seulement les exercices ratés).
 
+Vous aurez aussi l'occasion de mettre des plages de disponibilités pour
+corriger les exercices des autres piscineux. C'est une bonne occasion pour
+rencontrer d'autres humains et de voir comment ils ont résolu les exercices.
+
 ### Vendredi
 
 Le vendredi est consacré à un examen machine, qui est une série d'exercices
