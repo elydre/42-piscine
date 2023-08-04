@@ -114,7 +114,7 @@ staff durant les premiers examens...
 
 ### Les Rushs
 
-<img src="https://elydre.github.io/img/piscine/rushs.png" width="300">
+<img src="https://elydre.github.io/img/piscine/rush.png" width="300">
 
 Les rushs n'ont qu'une seule correction, assurez vous que votre projet
 respecte bien le sujet, et faite un maximum de tests avant de le rendre.
