@@ -75,7 +75,7 @@ pour vous aider à corriger votre code.
 ### Week-end
 
 Le week-end est consacré à un projet (rush) à faire en groupe créé aléatoirement.
-Ils sont généralement plus difficiles que les days, et vous avez 48h pour les
+Ils sont généralement plus difficiles que les days et vous avez 48h pour les
 rendre. Les rushs ne sont pas corrigés par des piscineux, mais par des membres
 du staff. Les rushs sont les seuls projets où vous pouvez tenté de faire des
 bonus (documentations, fonctionnalités supplémentaires, etc.)
