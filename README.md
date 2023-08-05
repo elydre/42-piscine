@@ -135,25 +135,64 @@ La correction est faite par trois piscineux ainsi que par la moulinette.
 Le BSQ est un projet assez difficile, faite attention à l'optimisation de
 votre code.
 
+## Mon Avis
+
+*Mon avis est subjectif, et je ne parle que de certains aspects de la piscine.*
+
+La piscine est une bonne expérience, elle permet de rencontrer des gens, de
+se faire des amis, de travailler en groupe et de découvrir de nouvelles choses.
+J'ai passé une très bonne piscine, voila juste quelques points que je n'ai pas
+apprécié, ou sur lesquels je me suis posé des questions:
+
+Les groupes sont créés aléatoirement, ce qui permet de rencontrer des gens de tous
+les niveaux. Les groupes avec des niveaux très différents ne permettent pas toujours
+un travail très homogène, mais c'est une bonne occasion de rencontrer des gens et
+de partager des connaissances. (idem pour les corrections)
+
+Bien que le C soit un de mes langages préférés, je ne sais pas si c'est le meilleur
+langage pour apprendre la programmation. Le C est un langage très bas niveau, il
+faut gérer la mémoire, les pointeurs etc. Commancer le C permet d'avoir beaucoup
+de rigueur et de mieux comprendre le fonctionnement de la mémoire. Il est possible
+que selon les personnes, un langage plus haut niveau soit plus adapté pour apprendre
+la programmation.
+
+Je ne suis pas non plus fan de la norme que je trouve trop stricte sur certains points.
+Le code est souvent bien moins claire et simple à modifier après l'avoir normé
+et certainnes fonctionnalités interdites sont très utiles comme les ternaires,
+les switchs... Mais elle permet d'avoir un code homogène et facilement identifiable
+comme du code de l'école.
+
+La norminette me parait un peu buggée dans certains cas par exemple:
+
+```c
+if (...)
+    if (...)
+        ........
+    else
+        ........
+else
+    ........
+```
+
+doit être tabulé comme ça (peut être que ça a changé depuis):
+
+```c
+if (...)
+    if (...)
+        ........
+else
+    ........
+else
+    ........
+```
+
+*Il est vrai que la syntaxe sans accolades est ambigue, mais elle permet de gagner
+beaucoup ligne (les fonctions ont une limite de 25 lignes)*
+
 ## Conclusion
 
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
-Mais quel enfer la norme! Mais quel enfer la norme! Mais quel enfer la norme!
+Rare sont les écoles qui proposent un parcours d'entrée aussi interessant que
+la piscine. Elle permet de decouvrir de nouvelles choses, de rencontrer des gens
+et de se faire des amis. Un grand merci à tous les membres du staff, les tuteurs
+et toutes les personnes qui ont rendu cette piscine possible. Je pourrais
+la recommander à n'importe qui, Bonne Piscine à tous !
