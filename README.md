@@ -126,6 +126,10 @@ Durant la presentation, vous devrez expliquer comment vous avez fait votre
 projet et comment c'est passé le travail en groupe.
 Vous avez carte blanche pour les bonus, surtout si vous avez fini le rush.
 
+Le correcteur risque de verifier les leaks de votre programme, pensez à
+bien free vos mallocs, utilisez `valgrind` ou `cc -fsanitize=address -g`
+pour vérifier que votre programme ne fuit pas, verifier aussi en cas d'erreur.
+
 ### Le BSQ
 
 <img src="https://elydre.github.io/img/piscine/bsq.png" width="300">
@@ -133,7 +137,7 @@ Vous avez carte blanche pour les bonus, surtout si vous avez fini le rush.
 Le BSQ est le dernier projet de la piscine, il est à rendre en 3 jours.
 La correction est faite par trois piscineux ainsi que par la moulinette.
 Le BSQ est un projet assez difficile, faite attention à l'optimisation de
-votre code.
+votre code, et à la gestion de la mémoire.
 
 ## Mon Avis
 
