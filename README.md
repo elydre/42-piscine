@@ -190,7 +190,7 @@ else
     ........
 ```
 
-*Il est vrai que la syntaxe sans accolades est ambigue, mais elle permet de gagner
+*Il est vrai que la syntaxe sans accolades est ambigue mais elle permet de gagner
 beaucoup ligne (les fonctions ont une limite de 25 lignes)*
 
 ## Conclusion
