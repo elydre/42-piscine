@@ -113,7 +113,7 @@ vous n'auriez pas pensé.
 
 <img src="https://elydre.github.io/img/piscine/exams.png" width="300">
 
-Je n'ai d'astuces particulières pour les examens, vous serez guidés par le
+Je n'ai pas d'astuces particulières pour les examens, vous serez guidés par le
 staff durant les premiers examens...
 
 ### Les Rushs
@@ -141,16 +141,16 @@ votre code, et à la gestion de la mémoire.
 
 ## Mon Avis
 
-*Mon avis est subjectif, et je ne parle que de certains aspects de la piscine.*
+*Mon avis est subjectif et je ne parle que de certains aspects de la piscine.*
 
 La piscine est une bonne expérience, elle permet de rencontrer des gens, de
 se faire des amis, de travailler en groupe et de découvrir de nouvelles choses.
 J'ai passé une très bonne piscine, voila juste quelques points que je n'ai pas
-apprécié, ou sur lesquels je me suis posé des questions:
+apprécié ou sur lesquels je me suis posé des questions:
 
 Les groupes sont créés aléatoirement, ce qui permet de rencontrer des gens de tous
 les niveaux. Les groupes avec des niveaux très différents ne permettent pas toujours
-un travail très homogène, mais c'est une bonne occasion de rencontrer des gens et
+un travail très homogène mais c'est une bonne occasion de rencontrer des gens et
 de partager des connaissances. (idem pour les corrections)
 
 Bien que le C soit un de mes langages préférés, je ne sais pas si c'est le meilleur
