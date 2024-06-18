@@ -155,7 +155,7 @@ de partager des connaissances. (idem pour les corrections)
 
 Bien que le C soit un de mes langages préférés, je ne sais pas si c'est le meilleur
 langage pour apprendre la programmation. Le C est un langage très bas niveau, il
-faut gérer la mémoire, les pointeurs etc. Commancer le C permet d'avoir beaucoup
+faut gérer la mémoire, les pointeurs etc. Commencer le C permet d'avoir beaucoup
 de rigueur et de mieux comprendre le fonctionnement de la mémoire. Il est possible
 que selon les personnes, un langage plus haut niveau soit plus adapté pour apprendre
 la programmation.
