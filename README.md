@@ -24,9 +24,9 @@ vous risquez d'avoir des surprises lors de la correction et des examens machines
 Bien qu'il soit possible de réussir la piscine sans aucune connaissance
 préalable, avoir quelques bases en programmation et en C vous aidera
 grandement pour vous concentrer sur les projets et la pédagogie de l'école.
-Installez Linux (WSL existe pour Windows) et commencez à vous familiariser
-avec les commandes de base. Vous pouvez aussi commencer à apprendre le C
-avec des tutoriels en ligne.
+Installez une distribution Linux (WSL existe pour Windows) et familiarisez
+vous avec les commandes de base. Vous pouvez aussi commencer à apprendre le
+C avec des tutoriels en ligne.
 
 ### Pendant la piscine
 
@@ -65,12 +65,12 @@ rencontrer d'autres personnes et de voir comment ils ont résolu les exercices.
 
 ### Vendredi
 
-Le vendredi est consacré à un examen machine, qui est une série d'exercices à
-faire en 4 heures (ou 8 heures pour l'examen final). Les exercices sont similaires
-à ceux des days, mais vous n'avez pas de correcteurs humains et vous n'avez pas
-accès à Internet. La correction est faite automatiquement; dans les premiers
-examens, vous aurez accès à un historique des tests passés et ratés pour vous
-aider à corriger votre code.
+Le vendredi, c'est l'exam machine, est une série d'exercices à faire en 4 heures
+(ou 8 heures pour l'examen final). Les exercices sont similaires à ceux des days,
+mais vous n'avez pas de correcteurs humains et vous n'avez pas accès à Internet.
+La correction est faite automatiquement; pendant les premiers examens, vous aurez
+accès à un historique des tests passés et ratés pour vous aider à corriger votre
+code.
 
 ### Week-end
 
@@ -86,7 +86,7 @@ bonus (documentation, fonctionnalités supplémentaires, etc.).
 
 <img src="https://elydre.github.io/img/piscine/shells.png" width="300">
 
-Les premiers jours de la piscine sont consacrés à l'apprentissage du shell.
+Les premiers jours de la piscine sont dédiés à l'apprentissage du shell.
 Je ne connais personne qui ait trouvé ça fun, mais c'est un mal nécessaire.
 Ne vous attardez pas trop sur le shell (surtout le `shell01`).
 
@@ -207,3 +207,9 @@ la piscine. Elle permet de découvrir de nouvelles choses, de rencontrer des gen
 et de se faire des amis. Un grand merci à tous les membres du staff, les tuteurs
 et toutes les personnes qui ont rendu cette piscine possible. Je pourrais
 la recommander à n'importe qui. Bonne piscine à tous !
+
+----------------------
+
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felydre%2F42-piscine&count_bg=%23EB00FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
+![GitHub Repo stars](https://img.shields.io/github/stars/elydre/42-piscine?style=flat)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/elydre/42-piscine?color=88aa22)
