@@ -31,9 +31,10 @@ C avec des tutoriels en ligne.
 ### Pendant la piscine
 
 Ne restez pas seul ! Même si vous n'êtes pas à l'aise (oui, je sais), vous
-trouverez toujours quelqu'un pour vous aider. Google est aussi votre ami.
-Durant les examens machines, vous n'aurez pas accès à Internet, mais vous
-pouvez toujours chercher des informations sur le `man` de votre machine.
+trouverez toujours quelqu'un pour vous aider. Les moteurs de recherche sont
+aussi vos amis! Durant les examens machines, vous n'aurez pas accès à
+Internet, mais vous pouvez toujours chercher des informations sur le `man`
+de votre machine.
 
 Trouvez le temps de dormir, de bien manger et de vous détendre; c'est
 long, un mois :)
