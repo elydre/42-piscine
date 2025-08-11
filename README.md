@@ -208,9 +208,3 @@ la piscine. Elle permet de découvrir de nouvelles choses, de rencontrer des gen
 et de se faire des amis. Un grand merci à tous les membres du staff, les tuteurs
 et toutes les personnes qui ont rendu cette piscine possible. Je pourrais
 la recommander à n'importe qui. Bonne piscine à tous !
-
-----------------------
-
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felydre%2F42-piscine&count_bg=%23EB00FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
-![GitHub Repo stars](https://img.shields.io/github/stars/elydre/42-piscine?style=flat)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/elydre/42-piscine?color=88aa22)
